@@ -1,4 +1,4 @@
-package ewce_codes;
+package org.tnsif.capgemini.c2tc.java;
 
 
  class Student
